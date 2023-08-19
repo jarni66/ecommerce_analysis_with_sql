@@ -33,11 +33,28 @@ In a company measuring business performance is very important to track, monitor,
 
 <img src="images/average_active_user.png" alt="Logo" width="500" height="auto">
 
-    2016 having lower values because it is started from september. Average order for each year have no significant different, 1 order per customer. There is monthly active user increase from 2017 to 2018, even 2018 data is just 8 months.
+2016 having lower values because it is started from september. Average order for each year have no significant different, 1 order per customer. There is monthly active user increase from 2017 to 2018, even 2018 data is just 8 months.
 
 <img src="images/annual_repeat_order.png" alt="Logo" width="500" height="auto">
 
-    2016 and 2018 repeat order are lower potentialy because of lacks of data. 
+2016 and 2018 repeat order are lower potentialy because of lacks of data. 
 
+## Annual Product Category Quality Analysis
+<img src="images/product_category.png" alt="Logo" width="500" height="auto">
+
+Each year have different top product category it is indicate that annual market are fluctuative. On 2018 we have health beauty product as top revenue and most cancled product, we can take insight that top sold product have high chance to get cancled.
+
+<img src="images/product_category_revenue.png" alt="Logo" width="500" height="auto">
+
+Health beauty product have significant increase starting at early 2018.
+
+## Annual Payment Type Usage
+
+<img src="images/payment_type.png" alt="Logo" width="500" height="auto">
+
+Credit card become the most favorite payment type for customer, poetntialy it is because credit card more handy to use than other payment method.
 # Summary
+Company have significant growth from 2016 to 2018, proved by monthly active cutomer and repeat order. Product category sold increase from 2016 to 2017 and start flat in 2018 for some category. Health beauty product have significant increaset in 2018 and have high chances still  increasing for next month. Customer keenly pay with credit card, possibly because it is handy to use.
+
 # Recommendation
+Launch promotion to buy heath beauty product for new customer and loyal customer with creadit card payment. With this way company can increase this 3 metric, Customer growth, Product quality, and Payment type.
